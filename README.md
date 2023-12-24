@@ -1,2 +1,2 @@
 # carsale
-for live preview visit- carasale.tiiny.site
+for live preview visit- (carasale.tiiny.site)
